@@ -7,3 +7,10 @@ dependencies:
     - plotnine
     - xlrd
     - pandas
+    - spacy
+    - scipy
+    - numpy
+    - scikit-learn
+    - matplotlib
+    - pandas
+    - thinc
